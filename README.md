@@ -2,9 +2,7 @@
 
 __Bekijk prototype hier: [amsterdam.github.io/bruggen-prototype](https://amsterdam.github.io/bruggen-prototype)__
 
-Het prototype gebruikt de volgende WFS-URL:
-
-    https://map.data.amsterdam.nl/maps/bag?request=GetFeature&service=WFS&version=2.0.0&typeName=ms:openbareruimte&outputFormat=geojson&srsName=EPSG:4326&Filter=%3CFilter%3E%3CPropertyIsEqualTo%3E%3CPropertyName%3Eopr_type%3C%2FPropertyName%3E%3CLiteral%3EKunstwerk%3C%2FLiteral%3E%3C%2FPropertyIsEqualTo%3E%3C%2FFilter%3E
+Het prototype gebruikt de volgende WFS-URL: https://map.data.amsterdam.nl/maps/bag?request=GetFeature&service=WFS&version=2.0.0&typeName=ms:openbareruimte&outputFormat=geojson&srsName=EPSG:4326&Filter=%3CFilter%3E%3CPropertyIsEqualTo%3E%3CPropertyName%3Eopr_type%3C%2FPropertyName%3E%3CLiteral%3EKunstwerk%3C%2FLiteral%3E%3C%2FPropertyIsEqualTo%3E%3C%2FFilter%3E
 
 Voor meer informatie over de geoservices op amsterdam.nl, zie [api.data.amsterdam.nl/api/](https://api.data.amsterdam.nl/api/).
 
