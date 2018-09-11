@@ -11,3 +11,7 @@ body {
   height: 600px;
   width: 100%;
 }
+
+p {
+  word-wrap: break-word;
+}
